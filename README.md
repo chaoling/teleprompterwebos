@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## About
 
 bootplate-moonstone is a template for a minimal Enyo and Moonstone web application.
@@ -13,3 +14,9 @@ give you just the bootplate repo without any of the supporting libraries.
 As an alternative, you can use a Git client to clone this repo and then initialize
 submodules. This is good if you want to work with the latest version of the code from
 GitHub that we may not have packaged into an official release.
+=======
+teleprompterwebos
+=================
+
+a js based app for teleprompter
+>>>>>>> 2ac1bb04b33e53402ce9bf827d505eefb76c2454
